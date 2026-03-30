@@ -23,7 +23,20 @@ nextflow run main.nf --sam archivo.sam
 
 ## Salida
 
-```
+WT.sam
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━┓
+┃ Estadística                 ┃ Valor    ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━┩
+│ Total de lecturas alineadas │ 29190702 │
+│ Lecturas con MAPQ = 60      │ 16488973 │
+│ Porcentaje                  │ 56.5%    │
+└─────────────────────────────┴──────────┘
+Total de lecturas alineadas: 29190702
+Lecturas con MAPQ = 60: 16488973
+Porcentaje: 56.5%
+...
+test.sam
+
 Total de lecturas alineadas: 153284
 Lecturas con MAPQ = 60: 81234
 Porcentaje: 53.0%
