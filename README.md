@@ -5,7 +5,7 @@ Proyecto para analizar archivos SAM y contar lecturas con MAPQ = 60.
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-sam.git
+git clone https://github.com/manualfaros/proyecto_sam_curso_csic.git
 cd proyecto-sam
 ```
 
