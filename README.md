@@ -34,3 +34,6 @@ Porcentaje: 53.0%
 - `main.py` - Script de análisis
 - `main.nf` - Pipeline Nextflow
 - `pyproject.toml` - Dependencias
+- `test.sam` - Un archivo SAM para probar los scripts.
+- `uv.lock`  - Guarda las versiones exactas de las dependencias
+- `Memoria.docx` - La memoria del proyecto.
