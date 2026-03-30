@@ -7,7 +7,6 @@ Proyecto para analizar archivos SAM y contar lecturas con MAPQ = 60.
 ```bash
 git clone https://github.com/tu-usuario/proyecto-sam.git
 cd proyecto-sam
-uv sync
 ```
 
 ## Uso
